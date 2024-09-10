@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iteryspil.github.io/sitemap.html.gz
+Sitemap: https://iteryspil.github.io/app/sitemap.html.gz
+Sitemap: https://iteryspil.github.io/assets/sitemap.html.gz
+Sitemap: https://iteryspil.github.io/css/sitemap.html.gz
+Sitemap: https://iteryspil.github.io/includes/sitemap.html.gz
+Sitemap: https://iteryspil.github.io/item/sitemap.html.gz
+Sitemap: https://iteryspil.github.io/src/sitemap.html.gz
